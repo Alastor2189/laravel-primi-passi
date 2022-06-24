@@ -18,7 +18,7 @@ Route::get('/', function () {
     $data = [
         'name' => 'Iron',
         'lastname' => 'Maiden',
-        'member' => [
+        'members' => [
             [
                 'name' => 'Bruce',
                 'surname' => 'Dickinson',
